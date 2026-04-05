@@ -6,3 +6,5 @@
 
 Cdac Project:
 StayHub: https://github.com/Patel21410/StayHub_project
+
+for stayhub require java 17 and sts 4.0 react, npm start npm start.
